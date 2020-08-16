@@ -1,2 +1,1 @@
-cat "Hello Shivam"
-mkdir User
+echo "let's do something new"
